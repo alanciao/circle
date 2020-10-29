@@ -1,0 +1,9 @@
+body {
+  margin: 10px;
+  background-color: rgb(234, 234, 234);
+}
+
+#circle {
+  border: solid 3px #000;
+  background-color: rgb(253, 253, 253);
+}
